@@ -1,6 +1,0 @@
-x
-p
-t
-
-
-action.pause
