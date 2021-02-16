@@ -2,3 +2,9 @@ Bill Tentch
 Holden Ford
 Holden Ford
 a b c
+<<<<<<< HEAD
+=======
+
+new code
+
+>>>>>>> style
